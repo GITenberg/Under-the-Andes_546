@@ -1,0 +1,28 @@
+_repo: Under-the-Andes_546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stout, Rex
+    birthdate: 1886
+    deathdate: 1975
+    gutenberg_agent_id: '279'
+    url: http://www.gutenberg.org/2009/agents/279
+    wikipedia: http://en.wikipedia.org/wiki/Rex_Stout
+description: ''
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Andes -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Incas -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: Under the Andes
+url: http://www.gutenberg.org/ebooks/546
